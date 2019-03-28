@@ -1,6 +1,7 @@
 # Swift Extensions
 
 ![Swift-Extensions-Logo](tings/Swift-Extensions-Thing.png)
+Icons from [Icons8](http://icons8.com)
 
 These are extensions I personally use to make my life a little easier, most of them having to do something or the other with String manipulation, Grand Central Dispatch (GCD) and anything and everything that is even a minor inconvenience.
 
