@@ -25,4 +25,5 @@ Icons from [Icons8](http://icons8.com)
  - [Easy GCD](extensions/gcd/gcd_extension.swift): Much easier way to use GCD without having to write fancy code.
 
 ## Functions
-- [Play Audio](functions/audio/playSound.swift) - Play audio by passing name and format parameters
+- [Play System Audio](functions/audio/playSystemSound.swift) - Play >30 second audio by passing name and format parameters.
+- [Play Sound](functions/audio/playSound.swift) - Play sound by passing the name and format parameters.
