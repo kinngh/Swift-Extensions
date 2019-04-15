@@ -25,4 +25,4 @@ Icons from [Icons8](http://icons8.com)
  - [Easy GCD](extensions/gcd/gcd_extension.swift): Much easier way to use GCD without having to write fancy code.
 
 ## Functions
-- [Play Audio](functions/audio/playSound.swift)
+- [Play Audio](functions/audio/playSound.swift) - Play audio by passing name and format parameters
