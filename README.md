@@ -9,13 +9,6 @@ Icons from [Icons8](http://icons8.com)
 
 ## Index
 
-### Extensions
-- Strings
-- GCD [Grand Central Dispatch]
-
-### Functions
-- Audio
-
 ## Extensions
 ### Strings
 - [HTML to String](extensions/string/html_to_string.swift): Remove all HTML tags from a String
@@ -27,3 +20,4 @@ Icons from [Icons8](http://icons8.com)
 ## Functions
 - [Play System Audio](functions/audio/playSystemSound.swift) - Play <30 second audio by passing name and format parameters.
 - [Play Sound](functions/audio/playSound.swift) - Play sound by passing the name and format parameters.
+- [Render screenshot and save image](functions/image/renderView.swift) - Renders a "screenshot" of the current view and saves it to the Photo library
