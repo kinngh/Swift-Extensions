@@ -14,10 +14,10 @@ extension String {
     var isValidURL: Bool {
 
         let detectorBoi = try! NSDataDetector(types: NSTextCheckingResult.CheckingType.link.rawValue)
-        if let match = detectorBoi.firstMatch(in: self, options: [], range: NSRange(location: 0, length: self.endIndex.utf16Offset(in: self))) {
+        if let match = detectorBoi.firstMatch(in: self, options: [], range: NSRange(location: 0, length: endIndex.utf16Offset(in: self))) {
 
             //It'll be a link only if the ENTIRE STRING is a link.
-            return match.range.length == self.endIndex.utf16Offset(in: self)
+            return match.range.length == endIndex.utf16Offset(in: self)
         }
 
         else {
