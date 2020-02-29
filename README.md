@@ -1,7 +1,9 @@
 # Swift Extensions and Functions
-#### Swift 5.0 compatible
+#### Swift 5.2 compatible
 
 These are extensions and functions I personally use to make my life a little easier, most of them having just one goal. Make my programming life easier, so I spend more time focusing on core functionalities, instead of figuring out APIs, functions, extensions, etc.
+
+Also feel free to see my GitHub gists where I usually post SwiftUI layouts and other content I drop from my production projects [here](https://gist.github.com/kinngh)
 
 ![Swift-Extensions-Logo](tings/Swift-Extensions-Thing.png)
 
